@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yogamruth Reddy | Resume</title>
+
+    <style>
+        body {
+            font-family: "Segoe UI", Arial, sans-serif;
+            margin: 0;
+            background: #f5f7fa;
+            color: #333;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 35px 45px;
+            border-radius: 8px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+        }
+
+        h1 {
+            margin: 0;
+            color: #1a73e8;
+        }
+
+        .contact {
+            font-size: 14px;
+            margin: 8px 0 20px 0;
+        }
+
+        .contact a {
+            color: #1a73e8;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+
+        h2 {
+            border-bottom: 2px solid #1a73e8;
+            padding-bottom: 5px;
+            margin-top: 28px;
+            font-size: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 6px;
+        }
+
+        .section {
+            margin-bottom: 18px;
+        }
+
+        .skills span {
+            display: inline-block;
+            background: #e8f0fe;
+            color: #1a73e8;
+            padding: 6px 10px;
+            border-radius: 4px;
+            margin: 4px 4px 0 0;
+            font-size: 13px;
+        }
+
+        .download-btn {
+            background: #1a73e8;
+            color: white;
+            border: none;
+            padding: 10px 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            margin-top: 15px;
+        }
+
+        .download-btn:hover {
+            background: #1558b0;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        /* Mobile responsiveness */
+        @media (max-width: 600px) {
+            .container {
+                padding: 25px;
+                margin: 15px;
+            }
+        }
+
+        /* Hide button in print */
+        @media print {
+            .download-btn {
+                display: none;
+            }
+            body {
+                background: white;
+            }
+            .container {
+                box-shadow: none;
+                margin: 0;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Yogamruth Reddy</h1>
+    <div class="contact">
+        Hyderabad, Telangana | 9989017487 |
+        <a href="mailto:guggilla.yogamruthreddy4422@gmail.com">Email</a>
+        <a href="https://www.linkedin.com/in/yogamruth-reddy-guggilla-b56089235/" target="_blank">LinkedIn</a>
+        <a href="https://github.com/amruthreddy30" target="_blank">GitHub</a>
+    </div>
+
+    <button onclick="downloadPDF()" class="download-btn">
+        Download Resume as PDF
+    </button>
+
+    <div class="section">
+        <h2>Profile</h2>
+        <p>
+            Computer Science Engineering student skilled in Python, IoT, AI fundamentals, and cybersecurity concepts.
+            Experienced in building smart systems, automation projects, and algorithm-based applications.
+            Passionate about creating secure, scalable, real-world technology solutions.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <p>
+            <strong>B.Tech in Computer Science Engineering</strong><br>
+            Woxsen University | Expected 2028<br>
+            CGPA: 7.5
+        </p>
+
+        <p>
+            <strong>Intermediate (TSBIE)</strong> – 91%<br>
+            <strong>CBSE (10th)</strong> – 84%
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Technical Skills</h2>
+        <div class="skills">
+            <span>Python</span>
+            <span>Java</span>
+            <span>C (Arduino)</span>
+            <span>SQL</span>
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>JSON</span>
+            <span>IoT</span>
+            <span>AI Fundamentals</span>
+            <span>Cyber Security</span>
+            <span>Computer Vision</span>
+            <span>Git</span>
+            <span>Arduino</span>
+            <span>MediaPipe</span>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>AgroHub – AI & IoT Smart Agriculture Platform</strong> (Completed)</li>
+            <li><strong>IoT-Integrated Waste Management Station</strong> (Completed)</li>
+            <li><strong>Multi-Factor Authentication System</strong> (In Progress)</li>
+            <li><strong>Disk Scheduling Algorithm Analyzer</strong> (Completed)</li>
+            <li><strong>Library Management System (Java OOP)</strong> (In Progress)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Data Structures using Python</li>
+            <li>Java Programming</li>
+            <li>Object-Oriented Design</li>
+            <li>Introduction to Artificial Intelligence</li>
+            <li>Introduction to Cyberattacks</li>
+            <li>Interfacing with Arduino</li>
+            <li>Quantum Computing for Everyone</li>
+        </ul>
+    </div>
+
+    <footer>
+        <button onclick="downloadPDF()" class="download-btn">
+            Download as PDF
+        </button>
+    </footer>
+
+</div>
+
+<script>
+function downloadPDF() {
+    window.print();
+}
+</script>
+
+</body>
+</html>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0c1527,65:1d4ed8,100:38bdf8&height=300&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=IoT%20%7C%20Backend%20%7C%20Cybersecurity%20Developer&descAlignY=58&descSize=18&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0c1527,65:1d4ed8,100:38bdf8&height=300&section=header&text=GUGGILLA%20YOGAMRUTH%20REDDY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=IoT%20%7C%20Backend%20%7C%20Cybersecurity%20Developer&descAlignY=58&descSize=18&descColor=94a3b8" width="100%" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## ✦ About Me
 
-I’m **Erolla Rishvin Reddy** — a B.Tech CSE student at Woxsen University (Class of 2028) who builds across the full hardware-to-cloud spectrum.
+I’m **Guggilla Yogamruth Reddy** — a B.Tech CSE student at Woxsen University (Class of 2028) who builds across the full hardware-to-cloud spectrum.
 
 My work sits at the intersection of **embedded systems**, **backend engineering**, and **network security** — not just as a student exploring theory, but as someone building real tools for real use cases. From sensor-driven IoT automation to secure web APIs to intrusion detection pipelines, I care about systems that are *correct*, *clean*, and *useful*.
 
@@ -37,7 +37,7 @@ My work sits at the intersection of **embedded systems**, **backend engineering*
 
 |             |                                                          |
 |-------------|----------------------------------------------------------|
-|**Name**     |Erolla Rishvin Reddy                                      |
+|**Name**     |Guggilla Yogamruth Reddy                                      |
 |**Role**     |IoT · Backend · Cybersecurity Developer                   |
 |**Education**|B.Tech CSE @ Woxsen University, Hyderabad                 |
 |**Focus**    |Secure intelligent systems, automation, scalable logic    |
@@ -233,9 +233,9 @@ Code → System → Intelligence → Impact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishvin-reddy)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishvin18@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/J4P3MRT5HOAZH1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogamruthreddy/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guggilla.yogamruthreddy4422@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919989017487)
 [![GitHub](https://img.shields.io/badge/GitHub-0c1527?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YogamruthReddy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=0c1527)](https://YogamruthReddy.github.io/Rishvin_Reddy_Portfolio/)
 

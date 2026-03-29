@@ -25,7 +25,7 @@
 
 ## ✦ About Me
 
-I’m **Guggilla Yogamruth Reddy** — a B.Tech CSE student at Woxsen University (Class of 2028) who builds across the full hardware-to-cloud spectrum.
+I'm **Guggilla Yogamruth Reddy** — a B.Tech CSE student at Woxsen University (Class of 2028) who builds across the full hardware-to-cloud spectrum.
 
 My work sits at the intersection of **embedded systems**, **backend engineering**, and **network security** — not just as a student exploring theory, but as someone building real tools for real use cases. From sensor-driven IoT automation to secure web APIs to intrusion detection pipelines, I care about systems that are *correct*, *clean*, and *useful*.
 
@@ -37,11 +37,20 @@ My work sits at the intersection of **embedded systems**, **backend engineering*
 
 |             |                                                          |
 |-------------|----------------------------------------------------------|
-|**Name**     |Guggilla Yogamruth Reddy                                      |
+|**Name**     |Guggilla Yogamruth Reddy                                  |
 |**Role**     |IoT · Backend · Cybersecurity Developer                   |
 |**Education**|B.Tech CSE @ Woxsen University, Hyderabad                 |
 |**Focus**    |Secure intelligent systems, automation, scalable logic    |
 |**Mindset**  |Build real solutions. Keep them secure. Make them elegant.|
+
+-----
+
+## ✦ What I'm Currently Building
+
+> 🔨 **Active:** Refining Gov Payroll analytics dashboard — real-time charts & PDF exports
+> 🔬 **Exploring:** Multi-face tracking optimizations with MediaPipe landmark geometry
+> 📡 **Next Up:** Smart traffic signal coordination with sensor feedback loops
+> 🛡️ **Learning:** Advanced network threat modeling and IDS rule engineering
 
 -----
 
@@ -59,17 +68,33 @@ My work sits at the intersection of **embedded systems**, **backend engineering*
 
 ## ✦ Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css,flask,fastapi,react,nodejs,sqlite,arduino,linux,opencv,tensorflow,git,github,vscode&theme=dark&perline=9" />
+
+</div>
+
+<br>
+
+<details>
+<summary><b>⚙️ Full Stack Breakdown</b></summary>
+
+<br>
+
 ### ⚙️ Programming & Backend
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -102,6 +127,8 @@ My work sits at the intersection of **embedded systems**, **backend engineering*
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -119,19 +146,43 @@ My work sits at the intersection of **embedded systems**, **backend engineering*
 
 </div>
 
+</details>
+
+-----
+
+## ✦ GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YogamruthReddy&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" />
+
+</div>
+
 -----
 
 ## ✦ Featured Projects
 
-|Project                                                                                     |Domain             |Core Tech                          |Highlights                                     |
-|--------------------------------------------------------------------------------------------|-------------------|-----------------------------------|-----------------------------------------------|
-|[**SecureComm Analyzer**](https://github.com/YogamruthReddy)                                  |Network Security   |Python · JS · Packet Analysis      |Traffic inspection & secure comms insights     |
-|[**NetShield IDS**](https://github.com/YogamruthReddy)                                        |Intrusion Detection|Snort · Linux · Security Monitoring|Rule-based threat detection & alerting         |
-|[**Smart Irrigation System**](https://github.com/YogamruthReddy/Smart-Irrigation-System)      |IoT & Agriculture  |Arduino · Sensors · IoT Dashboard  |Automated sensor-driven water management       |
-|[**Smart Dustbin System**](https://github.com/YogamruthReddy/Smart-Dustbin-System)            |IoT Automation     |Arduino · Ultrasonic · LEDs        |Real-time waste level monitoring               |
-|[**Disk Scheduling Visualizer**](https://github.com/YogamruthReddy/Disk-Scheduling-Visualizer)|Operating Systems  |Python · Tkinter                   |Algorithm visualizer for OS concepts           |
-|[**Text Search Engine**](https://github.com/YogamruthReddy/Text-Search-Engine)                |DSA                |Tries · KMP Algorithm              |High-performance pattern search engine         |
-|[**Outing Permission Generator**](https://github.com/YogamruthReddy)                          |Web Tools          |HTML · JS · Canvas API · PDF       |Hostel system tool — signature, PDF, CSV export|
+### 🔐 Security & Backend
+
+|Project|Core Tech|Highlights|
+|---|---|---|
+|[![SecureComm](https://img.shields.io/badge/SecureComm-0c1527?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/YogamruthReddy/SecureComm) **SecureComm**|![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|Traffic inspection & secure comms analysis framework|
+|[![GovPayroll](https://img.shields.io/badge/Gov_Payroll-0c1527?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/YogamruthReddy/govpay-payroll-management-system) **Gov Payroll Management System**|![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)|Full-stack payroll — salary processing, leave mgmt & analytics|
+
+### 🤖 AI & Computer Vision
+
+|Project|Core Tech|Highlights|
+|---|---|---|
+|[![FaceMesh](https://img.shields.io/badge/Face_Mesh-0c1527?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/YogamruthReddy/face-mesh-verification-system) **Face Mesh Verification System**|![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)|Real-time face verification via geometric landmark extraction|
+|[![PCAANN](https://img.shields.io/badge/PCA--ANN_Face_Recognition-0c1527?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/YogamruthReddy/PCA-ANN-Based-Face-Recognition-System) **PCA-ANN Face Recognition**|![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)|Dimensionality reduction + ANN-based face classification|
+
+### 🌐 Web & IoT Systems
+
+|Project|Core Tech|Highlights|
+|---|---|---|
+|[![SmartTraffic](https://img.shields.io/badge/Smart_Traffic-0c1527?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/YogamruthReddy/smart-traffic-management-system) **Smart Traffic Management System**|![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|Intelligent traffic signal coordination & flow management|
+|[![DiskScheduler](https://img.shields.io/badge/Disk_Scheduler-0c1527?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/YogamruthReddy/disk-scheduling-algorithm-visualizer) **Disk Scheduling Visualizer**|![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)|GUI visualizer for FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK|
+|[![OutingForm](https://img.shields.io/badge/Outing_Form-0c1527?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/YogamruthReddy/Outing_Form_canaddnewstudent) **Outing Form System**|![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|Digital outing form — signature pad, PDF & CSV export|
 
 -----
 
@@ -139,11 +190,26 @@ My work sits at the intersection of **embedded systems**, **backend engineering*
 
 <div align="center">
 
-<!-- PINNED_REPOS_START -->
+<a href="https://github.com/YogamruthReddy/SecureComm">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YogamruthReddy&repo=SecureComm&theme=github_dark&hide_border=true&bg_color=0c1527&title_color=38bdf8&icon_color=1d4ed8&text_color=94a3b8" />
+</a>
+<a href="https://github.com/YogamruthReddy/govpay-payroll-management-system">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YogamruthReddy&repo=govpay-payroll-management-system&theme=github_dark&hide_border=true&bg_color=0c1527&title_color=38bdf8&icon_color=1d4ed8&text_color=94a3b8" />
+</a>
 
-<!-- This section is auto-updated by GitHub Actions → .github/workflows/update-pins.yml -->
+<a href="https://github.com/YogamruthReddy/face-mesh-verification-system">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YogamruthReddy&repo=face-mesh-verification-system&theme=github_dark&hide_border=true&bg_color=0c1527&title_color=38bdf8&icon_color=1d4ed8&text_color=94a3b8" />
+</a>
+<a href="https://github.com/YogamruthReddy/PCA-ANN-Based-Face-Recognition-System">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YogamruthReddy&repo=PCA-ANN-Based-Face-Recognition-System&theme=github_dark&hide_border=true&bg_color=0c1527&title_color=38bdf8&icon_color=1d4ed8&text_color=94a3b8" />
+</a>
 
-<!-- PINNED_REPOS_END -->
+<a href="https://github.com/YogamruthReddy/disk-scheduling-algorithm-visualizer">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YogamruthReddy&repo=disk-scheduling-algorithm-visualizer&theme=github_dark&hide_border=true&bg_color=0c1527&title_color=38bdf8&icon_color=1d4ed8&text_color=94a3b8" />
+</a>
+<a href="https://github.com/YogamruthReddy/Outing_Form_canaddnewstudent">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YogamruthReddy&repo=Outing_Form_canaddnewstudent&theme=github_dark&hide_border=true&bg_color=0c1527&title_color=38bdf8&icon_color=1d4ed8&text_color=94a3b8" />
+</a>
 
 </div>
 
@@ -172,9 +238,19 @@ My work sits at the intersection of **embedded systems**, **backend engineering*
 
 -----
 
+## ✦ Contribution Activity
+
+<div align="center">
+
+<img src="https://github.com/YogamruthReddy/YogamruthReddy/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+
+</div>
+
+-----
+
 ## ✦ Current Focus
 
-|Area           |What I’m Working Toward                                            |
+|Area           |What I'm Working Toward                                            |
 |---------------|-------------------------------------------------------------------|
 |**Security**   |Secure comms, IDS pipelines, cryptography, network analysis        |
 |**Development**|Backend APIs, modular design, clean architecture                   |
@@ -237,7 +313,7 @@ Code → System → Intelligence → Impact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guggilla.yogamruthreddy4422@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919989017487)
 [![GitHub](https://img.shields.io/badge/GitHub-0c1527?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YogamruthReddy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=0c1527)](https://YogamruthReddy.github.io/Rishvin_Reddy_Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=0c1527)](https://YogamruthReddy.github.io/)
 
 </div>
 
